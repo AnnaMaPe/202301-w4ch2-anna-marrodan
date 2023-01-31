@@ -26,12 +26,12 @@
 
 ##SearchForm
 
-- Receives
+- Receives input from user
+- Sends input to App
 
 ##Display
 
 - Receives URL of Random gif
-- Sends URL of Random gif
 
 ##ErrorDisplay
 
